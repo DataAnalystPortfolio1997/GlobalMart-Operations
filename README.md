@@ -14,7 +14,7 @@ I suspect we are losing money on specific orders due to a combination of deep di
 
 **Conclusions drawn from the data analysis:**
 1. Total Net Profit lost on orders where the Discount was >20% = 6,692.29 . 
-   Is there a specific product category where high discounts completely eliminate profit margins? - Office Supplies, discounts (10,15,20,25,30), average profit margin (-7%, -10%, -23%, -23%, -5%) .
+   Is there a specific product category where high discounts completely eliminate profit margins? - Office Supplies, discounts (10% , 15% , 20% , 25% , 30%), average profit margin (-7%, -10%, -23%, -23%, -5%) .
 2. There are not countries or regions where the average Shipping Cost exceeds the average Profit per order .
 3. "Cash on Delivery" Payment Method correlates with the highest average Discount usage and encourages users to seek discounts .
 4. There is not segment where shipping costs are eating up more than 15% of the sale value .
